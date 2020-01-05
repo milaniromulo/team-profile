@@ -1,0 +1,58 @@
+{
+    "id": "123",
+    "name": "Rômulo Milani",
+    "rank": "Senior 2",
+    "clan": "Developer",
+    "image": "https://s3.amazonaws.com/TWFiles/61960/userAvatar/tf_3d6d743e-fdb0-4350-bf15-a76b3c0db012.avatar.jpg",
+    "skills": {
+        "Javascript": 4,
+        "React": 3,
+        "HTML": 4,
+        "CSS": 3,
+        "VTEX" : 4
+    },
+    "teammates": [
+        {
+            "id": "456",
+            "name": "Victor Rizieri",
+            "rank": "Pleno 3",
+            "clan": "Developer",
+            "image": "https://s3.amazonaws.com/TWFiles/61960/userAvatar/tf_0fd2080c-3337-4959-a384-7809ed5087b9.victor.png",
+            "skills": {
+                "Javascript": 4,
+                "React": 2,
+                "HTML": 4,
+                "CSS": 4,
+                "VTEX" : 4
+            }
+        },
+        {
+            "id": "789",
+            "name": "Paulo Pacirolli",
+            "rank": "Pleno 1",
+            "clan": "Designer",
+            "image": "https://s3.amazonaws.com/TWFiles/61960/userAvatar/tf_f4fce6ec-513b-4244-a8be-3e1fefa90603.paulo.png",
+            "skills": {
+                "Creativity": 2,
+                "UX": 2,
+                "UI": 3,
+                "Figma": 4,
+                "VTEX" : 0
+            }
+        },
+        {
+            "id": "789",
+            "name": "Jéssica Ribeiro",
+            "rank": "Pleno 1",
+            "clan": "Project Manager",
+            "image": "https://s3.amazonaws.com/TWFiles/61960/userAvatar/tf_1D786D70-938E-3A78-FE237C36DD74A8F0.jessica.png",
+            "skills": {
+                "Leadership": 2,
+                "Proactivity": 3,
+                "Problem Analysis": 2,
+                "Scrum": 2,
+                "VTEX" : 3
+            }
+        }
+    ] 
+}
